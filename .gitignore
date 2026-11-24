@@ -1,0 +1,6 @@
+.vscode/
+ArenaTracker.code-workspace
+
+bin/
+data/*
+!data/dataTemplate.csv
